@@ -1,0 +1,20 @@
+body, div, ul, li{
+    padding:0;
+    margin:0;
+}
+a img{
+    border:none;
+}
+#sharebuttons{
+    border:1px solid black;
+    border-radius:2px;
+    -moz-border-radius:2px;
+    -webkit-border-radius:2px;
+    margin:5px;
+    padding:2px;
+    width:auto;
+    line-height:0;
+}
+#sharebuttons a{
+    margin:0 2px;
+}
